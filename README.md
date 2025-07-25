@@ -48,7 +48,7 @@ Infra/Tools : Docker, GitHub Actions, Argo CD, Kubernetes, JMeter
 
 - 📝 Blog: [Qiita](https://qiita.com/greentea2smiley)  
 - 📮 Email: `matcha2smiley [at] gmail.com`  
-- 💼 LinkedIn: [https://www.linkedin.com/in/亮-齋藤-907378253](https://www.linkedin.com/in/%E4%BA%AE-%E9%BD%8B%E8%97%A4-907378253)
+- 💼 LinkedIn: [link](https://www.linkedin.com/in/%E4%BA%AE-%E9%BD%8B%E8%97%A4-907378253)
 
 ---
 
