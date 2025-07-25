@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
 **Backend Engineer | Kotlin / Java / Spring Boot / OSS Contributor**
